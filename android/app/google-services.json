@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613179669760",
+    "project_id": "fblocpost",
+    "storage_bucket": "fblocpost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613179669760:android:72d74b20365451160dc7e5",
+        "android_client_info": {
+          "package_name": "com.example.fbloc_postreq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613179669760-15r95bgkoqp85rtulgcg7cubr9825187.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1qdiqrUZefZYm1hMhjHEGBIq05prO7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613179669760-15r95bgkoqp85rtulgcg7cubr9825187.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
